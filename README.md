@@ -44,5 +44,4 @@ $ Get your editor (PHPStorm) + plugins primed for Symfony
 * All-important "service objects": a quick tour of using them and creating your own
 * Say hello to MakerBundle
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
