@@ -7,6 +7,8 @@
 
 <h3 align="center">Cosmic Coding with Symfony 7</h3>
 
+[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+
   <p align="center">
     <a href="https://symfonycasts.com/screencast/symfony"><strong>Explore the course »</strong></a>
     <br />
@@ -18,10 +20,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About this course
-
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-
-Symfony 7, yes! 
 
 If you're ready to get serious about web dev - whether you're building a JSON API or a rich web app - you've come to the right place! Symfony is the famous backbone for the most popular PHP libraries, embraces object-oriented best practices and... it's just fun to use!
 
