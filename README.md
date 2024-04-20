@@ -27,7 +27,7 @@ If you're ready to get serious about web dev - whether you're building a JSON AP
 
 I want you to feel dangerous with Symfony and love the process! In this tutorial, we get to learn the fundamentals of Symfony, build real stuff and learn the how and why behind how things work. And... we'll do it by building a space-themed site (because I'm a sci-fi geek):
 
-What I learned:
+### What I learned :
 * Create a new (and tiny!) Symfony app (it's lean but mean)
 * Set up a local web server with the symfony binary
 $ Get your editor (PHPStorm) + plugins primed for Symfony
@@ -44,4 +44,17 @@ $ Get your editor (PHPStorm) + plugins primed for Symfony
 * All-important "service objects": a quick tour of using them and creating your own
 * Say hello to MakerBundle
 
+### Installation
 
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Nuxea/Starshop.git
+   ```
+2. Running Composer
+   ```sh
+   composer install
+   ```
+3. Start server
+    ```sh
+   symfony serve
+   ```
