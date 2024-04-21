@@ -13,8 +13,7 @@
     <a href="https://symfonycasts.com/screencast/symfony"><strong>Explore the course »</strong></a>
     <br />
     <br />
-
-[//]: # (    <a href="">View Demo</a>)
+    <a href="https://starshop.nuxea.fr/">Demo</a>
   </p>
 </div>
 
@@ -50,7 +49,7 @@ $ Get your editor (PHPStorm) + plugins primed for Symfony
    ```
 2. Running Composer
    ```sh
-   composer install
+   composer update
    ```
 3. Start server
     ```sh
