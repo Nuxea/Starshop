@@ -12,8 +12,8 @@
     <div>
         <div class="flex flex-col space-y-1.5">
             <div class="rounded-2xl py-1 px-3 flex justify-center w-32 items-center" style="background: rgba(255, 184, 0, .1);">
-                <div class="rounded-full h-2 w-2 bg-amber-400 blur-[1px] mr-2"></div>
-                <p class="uppercase text-xs">in progress</p>
+                <div class="rounded-full h-2 w-2 {{ myShip.statusColor }} blur-[1px] mr-2"></div>
+                <p class="uppercase text-xs">{{ myShip.statusAsString }}</p>
             </div>
             <h3 class="tracking-tight text-[22px] font-semibold">
                 <a class="hover:underline" href="{{ path('app_starship_show', {

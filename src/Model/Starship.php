@@ -51,4 +51,13 @@ class Starship
             StarshipStatusEnum::COMPLETED => 'images/status-complete.png',
         };
     }
+
+    public function getStatusColor(): string
+    {
+        return match ($this->status) {
+            StarshipStatusEnum::WAITING => 'bg-red-400',
+            StarshipStatusEnum::IN_PROGRESS => 'bg-amber-400',
+            StarshipStatusEnum::COMPLETED => 'bg-lime-400',
+        };
+    }
 }
