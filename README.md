@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/assets/img/logo.svg" alt="Logo" width="200">
+    <img src="assets/images/logo.svg" alt="Logo" width="200">
   </a>
 
 <h3 align="center">Cosmic Coding with Symfony 7</h3>
